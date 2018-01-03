@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM jenkins/jenkins:lts
 MAINTAINER Vitalii Kulanov "vitaliy@kulanov.org.ua"
 
 # Install plugins
